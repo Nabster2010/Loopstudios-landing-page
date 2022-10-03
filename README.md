@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github repo](https://github.com/Nabster2010/Loopstudios-landing-page)
-- Live Site URL: [live site]()
+- Live Site URL: [live site](https://illustrious-jalebi-b86841.netlify.app/)
 
 ### Built with
 
