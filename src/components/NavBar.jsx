@@ -62,7 +62,7 @@ const NavBar = ({ toggleMobile, mobileOpen }) => {
       </ul>
       {/* mobile menu */}
       <div
-        className={`fixed transition ${
+        className={`fixed transition z-20 ${
           !mobileOpen && "-translate-x-full"
         } md:hidden bg-black dark:bg-White  top-0  left-0 w-full  h-screen px-6 py-8 `}
       >
